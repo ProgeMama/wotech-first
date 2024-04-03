@@ -4,49 +4,69 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 
 ## About me 🦊
 
-🔸 Motivated and adaptable professional 
+🔸  Motivated and adaptable professional 
     with a strong background in retail management and category management, 
     transitioning into the field of Information Technology with Programming.
 
-🔸 Enthusiastic about learning new skills and technologies,
-   including Java, Python, SQL, DevOps, and AI.
+🔸  Enthusiastic about learning new skills and technologies,
+    including Java, Python, SQL, DevOps, and AI.
 
-🔸 Currently studying programming in the WoTech programme.
+🔸  Currently studying programming in the WoTech programme.
 
-🔸 WoTech is a reskilling program, run by Riga TechGirls and Smartworkacademy,
-   which prepares women for a junior positions in the programming field.
+🔸  WoTech is a reskilling program, 
+    run by Riga TechGirls and Smartworkacademy,
+    which prepares women for a junior positions 
+    in the programming field.
 
-🔸 Looking for an internship
+🔸  Looking for an internship
 
 ## Technical skills
 ✅ Test Planning
+
 ✅ Black and White Box Testing
+
 ✅ Test cases
+
 ✅ Scrum
+
 ✅ JIRA
+
 ✅ JIRA Zephyr
+
 ✅ Chrome DevTools
+
 ✅ Selenium IDE
+
 ✅ TestRail
+
 ✅ IntelliJ IDEA
+
 ✅ Java
+
 ✅ Python
+
 ✅ Github
   
 ## Soft skills
 ✅ Ability to learn quickly
+
 ✅ Friendly communication
+
 ✅ Results-driven mindset
+
 ✅ Adapting to changes
+
 ✅ Planning and time management skills
+
 ✅ Attentive to detail
+
 ✅ Positive attitude 
 
 ## Contact me
-1. eesmaaliisa@gmail.com
+🔸 eesmaaliisa@gmail.com
 
 
-## My favourite part of code
+## Some study codes
 ```java
    
      public class Main {
