@@ -16,6 +16,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 🔸 WoTech is a reskilling program, run by Riga TechGirls and Smartworkacademy,
    which prepares women for a junior positions in the programming field.
 
+🔸 Looking for an internship
 
 ## Technical skills
 ✅ Test Planning
