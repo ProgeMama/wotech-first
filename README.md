@@ -101,30 +101,3 @@
 }
 
 ...
-
-```java
-import java.util.Scanner;
-
-public class Main {
-
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // Ask the user for their name and favorite color
-        System.out.print("Enter your name: ");
-        String name = scanner.nextLine();
-
-        System.out.print("Enter your favorite color: ");
-        String color = scanner.nextLine();
-
-        // Generate and print a simple story
-        System.out.println("\nHere's a story for you:");
-        System.out.println("Once upon a time, there was a person named " + name + ".");
-        System.out.println(name + " liked " + color + ".");
-        System.out.println("The end.");
-
-        scanner.close();
-    }
-}
-
-...
